@@ -16,7 +16,7 @@
 # Delivery
 Please use a GitHub repository and share the link with us when you are finished.
 
-## Pre-requisite
+## Pre-requisite to run project
 This has been tested using Ubuntu20 LTS OS. The following should be installed in the system:
 
 1. Python3
